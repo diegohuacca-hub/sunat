@@ -2,12 +2,12 @@ const servicios = [
   {
     title: "SUNARP",
     subtitle: "Consulta Vehicular",
-    link: "https://consultavehicular.sunarp.gob.pe/consulta-vehicular/inicio"
+    link: "https://www.gob.pe/358-consultar-los-datos-de-un-vehiculo-consulta-vehiculara"
   },
   {
     title: "SUNARP",
     subtitle: "Historial de Dueños",
-    link: "https://sprl.sunarp.gob.pe/sprl/ingreso"
+    link: "https://conoce-aqui.sunarp.gob.pe/conoce-aqui/inicio"
   },
   {
     title: "SUTRAN",
