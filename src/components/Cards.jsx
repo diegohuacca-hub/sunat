@@ -7,7 +7,7 @@ const servicios = [
   {
     title: "SUNARP",
     subtitle: "Historial de Dueños",
-    link: "https://conoce-aqui.sunarp.gob.pe/conoce-aqui/inicio"
+    link: "https://conoce-aqui.sunarp.gob.pe/conoce-aqui/inicioz"
   },
   {
     title: "SUTRAN",
@@ -34,6 +34,28 @@ const servicios = [
     subtitle: "Multas",
     link: "https://www.sat.gob.pe/pagosenlinea/"
   },
+
+  {
+    title: "SAT TACNA",
+    subtitle: "Multas",
+    link: "https://www.munitacna.gob.pe/pagina/sf/servicios/papeletas"
+  },
+  {
+    title: "SAT HUANCAYO",
+    subtitle: "Multas",
+    link: "http://sathuancayo.fortiddns.com:888/VentanillaVirtual/ConsultaPIT.aspx"
+  },
+  {
+    title: "SAT AREQUIPA",
+    subtitle: "Multas",
+    link: "https://www.muniarequipa.gob.pe/muni-virtual-4/"
+  },
+  {
+    title: "SAT CUSCO",
+    subtitle: "Multas",
+    link: "https://cusco.gob.pe/informatica/index.php/"
+  },
+
   {
     title: "ATU",
     subtitle: "Multas ATU",
