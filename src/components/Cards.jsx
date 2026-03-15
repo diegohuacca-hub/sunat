@@ -7,7 +7,7 @@ const servicios = [
   {
     title: "SUNARP",
     subtitle: "Historial de Dueños",
-    link: "https://conoce-aqui.sunarp.gob.pe/conoce-aqui/inicioz"
+    link: "https://sprl.sunarp.gob.pe/sprl/ingreso"
   },
   {
     title: "SUTRAN",
