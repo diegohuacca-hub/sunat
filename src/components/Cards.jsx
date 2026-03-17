@@ -6,8 +6,13 @@ const servicios = [
   },
   {
     title: "SUNARP",
-    subtitle: "Historial de Dueños",
-    link: "https://sprl.sunarp.gob.pe/sprl/ingreso"
+    subtitle: "Dueños y deudas detallado",
+    link: "https://siguelo.sunarp.gob.pe/siguelo/?ref=webprtl"
+  },
+  {
+    title: "SUTRAN",
+    subtitle: "Récord de Infracciones",
+    link: "https://www.sutran.gob.pe/consultas/record-de-infracciones/record-de-infracciones/"
   },
   {
     title: "SUTRAN",
